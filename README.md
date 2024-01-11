@@ -43,3 +43,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam08012&show_icons=true&locale=en&layout=compact" alt="sam08012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam08012&show_icons=true&locale=en" alt="sam08012" /></p>
+
+![Snake animation](https://github.com/sam08012/sam08012/blob/output/github-contribution-grid-snake.svg)
