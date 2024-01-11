@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/C4E12AQF-h8Fe8k7_Rw/article-cover_image-shrink_720_1280/0/1614881756332?e=2147483647&v=beta&t=hQiACRnlvFGKP4Om9E4apRREWZsCGnjicOVKGWsIprI" alt="MasterHead" width="940" height="410">
+  <img src="https://media.licdn.com/dms/image/C4E12AQF-h8Fe8k7_Rw/article-cover_image-shrink_720_1280/0/1614881756332?e=2147483647&v=beta&t=hQiACRnlvFGKP4Om9E4apRREWZsCGnjicOVKGWsIprI" alt="MasterHead" width="940" height="350">
 </p>
 <h1 align="center">Hi 👋, I'm Samriddh</h1>
 <h3 align="center">A passionate data science enthusiast exploring the wonders of machine learning, deep learning in the world of Electronics. This space is a collection of my adventures in the world of bits and bytes.</h3>
