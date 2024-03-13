@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sam08012001@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1UtlFMaklrFPR84BP1xaYcGYGnbsZ-kx_/view?usp=sharing](https://drive.google.com/file/d/1UtlFMaklrFPR84BP1xaYcGYGnbsZ-kx_/view?usp=sharing)
+- 📄 My resume [https://drive.google.com/file/d/1fKiT8gerNQXjWOsmfron4129n0VgpJNp/view?usp=sharing]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
