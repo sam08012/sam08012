@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Animated Vision: Automated Animation of Educational Content**
 
-- 🌱 I’m currently learning **DFT on Synopsys VCS, NLP, Time Series predictions**
+- 🌱 I’m currently learning ** Databricks, Spark, and these Data Engineering tools**
 
 - 👯 I’m looking to collaborate on **Usage of Swarm intelligence for floor planning in chip design**
 
