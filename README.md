@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/C4E12AQF-h8Fe8k7_Rw/article-cover_image-shrink_720_1280/0/1614881756332?e=2147483647&v=beta&t=hQiACRnlvFGKP4Om9E4apRREWZsCGnjicOVKGWsIprI" alt="MasterHead" width="920" height="330">
 </p>
 <h1 align="center">Hi 👋, I'm Samriddh</h1>
-<h3 align="center">A passionate data science enthusiast exploring the wonders of machine learning, deep learning in the world of Electronics. This space is a collection of my adventures in the world of bits and bytes.</h3>
+<h3 align="center">A passionate data science researcher exploring the wonders of machine learning, deep learning in the world of core science. This space is a collection of my adventures in the world of bits and bytes.</h3>
 <img align="right" alt="Chip design" width="400" src="https://i.pinimg.com/originals/3c/72/a3/3c72a3ecad799a07d73cf3cac400be17.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam08012&label=Profile%20views&color=0e75b6&style=flat" alt="sam08012" /> </p>
