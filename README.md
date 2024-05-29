@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Usage of Swarm intelligence for floor planning in chip design**
 
-- 🤝 I’m looking for help with **Machine learning based Power and Delay estimation for CMOS Circuits**
+- 🤝 I’m looking for collaboration on **Animated Vision Project**
 
 - 📝 I regularly write articles on [https://medium.com/@sam08012001](https://medium.com/@sam08012001)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sam08012001@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1Z8z8TNxb5RU6lpLw8QaSuhlPeFAd4PwT/view?usp=sharing]
+<!-- 📄 My resume [https://drive.google.com/file/d/1Z8z8TNxb5RU6lpLw8QaSuhlPeFAd4PwT/view?usp=sharing] -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
